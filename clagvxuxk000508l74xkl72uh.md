@@ -1,3 +1,3 @@
-# NiceNiceNiceNice
+# Hello Hashnode
 
-Nice
+Hello Hashnode
